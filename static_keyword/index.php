@@ -31,6 +31,4 @@ print Bar::$my_static . "\n";
 $bar = new Bar();
 print $bar->testing_helloStatic() . "\n";
 
-
-
  ?>
